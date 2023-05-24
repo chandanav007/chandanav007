@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Chandana V</h1>
 <h3 align="center">An aspiring Data analyst from Bengaluru , India.</h3>
 
-<img align="right"alt="coding"width="400"src="https://www.bing.com/images/search?view=detailV2&ccid=%2FDhPoI8f&id=293E78B677E972CFE28ADA725FC96AE040B4D6DA&thid=OIP._DhPoI8fyTgh7coxZFc7swHaEq&mediaurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F9d%2Fcb%2F36%2F9dcb36579d4518b31451906466dc735d.gif&exph=428&expw=680&q=gif++wonen+programmer&simid=608045796256407392&form=IRPRST&ck=E8661BB3C6BCA0923B285311C69322FF&selectedindex=5&ajaxhist=0&ajaxserp=0&vt=0&sim=11"
+<img align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandanav007&label=Profile%20views&color=0e75b6&style=flat" alt="chandanav007" /> </p>
 
