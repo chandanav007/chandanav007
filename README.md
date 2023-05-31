@@ -1,3 +1,4 @@
+![logo](https://github.com/chandanav007/chandanav007/blob/main/chandana%20banner%20github%201.png)
 <h1 align="center">Hi 👋, I'm Chandana V</h1>
 <h3 align="center">An aspiring Data analyst from Bengaluru , India.</h3>
 
